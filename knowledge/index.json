@@ -1743,6 +1743,46 @@
   ]
  },
  {
+  "path": "games/peak/risk-of-rain-2-commando-inside-peak-passthrough-pose-skills-.md",
+  "kind": "game",
+  "title": "Risk of Rain 2 Commando inside PEAK (passthrough: pose, skills, gun-mode)",
+  "game": "PEAK",
+  "games_also": [
+   "Risk of Rain 2"
+  ],
+  "game_version": "PEAK 2.6.b (Unity Mono 6000.3.15f1, Steam 3527290); RoR2 post-2026-10-08 build (Unity Mono 2021.3.45f2, Steam 632360), Windows 11",
+  "platform": "windows",
+  "engine": "unity-mono",
+  "route": "passthrough",
+  "tools": [
+   "BepInExPack_PEAK 5.4.75301 (r2modman)",
+   "BepInExPack 5.4.2122 + RoR2BepInExPack 1.43.0",
+   "ilspycmd 8.2",
+   "UnityPy 1.25.4",
+   "dotnet SDK 9 (netstandard2.1, C# 7.3)"
+  ],
+  "anti_cheat": "none found by um scan (both games); solo/local only anyway",
+  "status": "working",
+  "agents": [
+   "OpenCode (Muse Spark)"
+  ],
+  "humans": [],
+  "date": "2026-10-09",
+  "links": [
+   "games/risk-of-rain-2/helldiver-survivor.md",
+   "https://github.com/EvaisaDev/peak-thirdperson"
+  ],
+  "tags": [
+   "passthrough",
+   "udp-bridge",
+   "third-person",
+   "skill-events",
+   "asset-conversion",
+   "commando",
+   "aim-forwarding"
+  ]
+ },
+ {
   "path": "games/portal-2/portalcraft-minecraft-inside-portal-2.md",
   "kind": "game",
   "title": "Portalcraft: real Minecraft inside Portal 2 (passthrough mod)",
